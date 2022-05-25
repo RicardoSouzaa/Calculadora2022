@@ -1,0 +1,10 @@
+C:\dev\CalculadoraTeste\bin\Debug\CalculadoraTeste.exe.config
+C:\dev\CalculadoraTeste\bin\Debug\CalculadoraTeste.exe
+C:\dev\CalculadoraTeste\bin\Debug\CalculadoraTeste.pdb
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.AssemblyReference.cache
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.Form1.resources
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.Properties.Resources.resources
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.GenerateResource.cache
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.CoreCompileInputs.cache
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.exe
+C:\dev\CalculadoraTeste\obj\Debug\CalculadoraTeste.pdb
